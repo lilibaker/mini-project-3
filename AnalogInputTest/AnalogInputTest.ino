@@ -51,5 +51,5 @@ void loop() {
 //  digitalWrite(ledPin, LOW);
 //  // stop the program for for <sensorValue> milliseconds:
 //  delay(sensorValue);
-  Serial.println(sensor2val);
+  Serial.println(sensorValue);
 }
